@@ -4,7 +4,7 @@
  ### [YouTube Demonstration](https://youtube.com)
 
 <h2>Description</h2>
-A template for future projects.
+I will install a virtual machine and load it with Kali linux.
 <br />
 
 
