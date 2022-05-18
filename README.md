@@ -32,7 +32,7 @@ Select 64bit VirtualBox <br />
 <img src="https://imgur.com/t8Hm4xK.png" height="80%" width="80%" alt="Template"/>
 <br />
 <br />
-Download VirtualBox 6.1.34 platform package - Window hosts:  <br/>
+Download VirtualBox 6.1.34 platform package at https://www.virtualbox.org/wiki/Downloads - Window hosts:  <br/>
 <img src="https://imgur.com/TWj9azo.png" height="80%" width="80%" alt="Template"/>
 <br />
 <br />
