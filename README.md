@@ -20,7 +20,7 @@ I will install a virtual machine and load it with Kali linux.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Download Kali linux 2022.2 virtualbox amd64 <br/>
+Download Kali linux 2022.2 virtualbox amd64 at https://www.kali.org/ <br/>
 <img src="https://imgur.com/C4cZufc.png" height="80%" width="80%" alt="Template"/>
 <br />
 <br />
